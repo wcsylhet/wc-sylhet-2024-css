@@ -6,3 +6,15 @@
   width: 100%;
   z-index: 1;
 }
+
+.header-btn {
+  background: #00B152;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-family: 'Sora';
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.header-btn:hover {}

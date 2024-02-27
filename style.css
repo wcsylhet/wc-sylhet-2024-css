@@ -31,3 +31,7 @@
   border-radius: 0px 8px 8px 0px;
   padding: 10px;
 }
+
+.breadcrumb.wp-block-wporg-site-breadcrumbs::after {
+  background-image: inherit !important;
+}

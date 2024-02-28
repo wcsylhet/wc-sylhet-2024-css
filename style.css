@@ -57,6 +57,11 @@
 .breadcrumb.wp-block-wporg-site-breadcrumbs .wporg-site-breadcrumbs__wrapper:after {
   content: inherit !important;
 }
+.list-mb-5 li {
+  margin-bottom: 5px;
+}
+
+/* Responsive */
 
 @media (min-width: 425px) and (max-width: 767px) {
 

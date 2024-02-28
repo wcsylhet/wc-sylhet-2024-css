@@ -35,3 +35,7 @@
 .breadcrumb.wp-block-wporg-site-breadcrumbs::after {
   background-image: inherit !important;
 }
+
+.round-badge {
+  border-radius: 50px;
+}

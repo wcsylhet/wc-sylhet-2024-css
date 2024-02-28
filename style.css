@@ -61,12 +61,12 @@
 @media (min-width: 425px) and (max-width: 767px) {
 
 .sponsor-form .grunion-field-wrap {
-    max-width: 100%;
-    flex: 1 1 100%;
+    max-width: 100% !important;
+    flex: 1 1 100% !important;
 }
 
 .sponsor-form select {
-    width: 100%;
+    width: 100% !important;
 }
   
 }

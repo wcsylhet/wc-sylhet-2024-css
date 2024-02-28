@@ -63,7 +63,7 @@
 
 /* Responsive */
 
-@media (min-width: 425px) and (max-width: 767px) {
+@media (min-width: 325px) and (max-width: 767px) {
 
 .sponsor-form .grunion-field-wrap {
     max-width: 100% !important;

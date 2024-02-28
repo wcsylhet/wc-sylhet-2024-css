@@ -39,3 +39,6 @@
 .round-badge {
   border-radius: 50px;
 }
+.wp-block-jetpack-contact-form > div {
+  margin-bottom: 30px;
+}

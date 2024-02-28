@@ -73,5 +73,11 @@
 .sponsor-form select {
     width: 100% !important;
 }
+.mobile-menu a {
+  color: #232323;
+}
+.wp-block-navigation .wp-block-navigation-item__content.wp-block-navigation-item__content {
+  color: #232323;
+}
   
 }

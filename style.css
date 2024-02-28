@@ -79,5 +79,9 @@
 .wp-block-navigation .wp-block-navigation-item__content.wp-block-navigation-item__content {
   color: #232323;
 }
+.footer h2.wp-block-heading.mb-24 {
+  margin-top: 26px;
+  font-weight: 600 !important;
+}
   
 }

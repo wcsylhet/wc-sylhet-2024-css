@@ -42,3 +42,14 @@
 .wp-block-jetpack-contact-form > div {
   margin-bottom: 30px;
 }
+.footer-flex-icon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  align-content: center;
+  flex-wrap: nowrap;
+}
+.footer-flex-icon img {
+  margin-right:5px
+}

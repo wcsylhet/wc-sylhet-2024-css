@@ -65,6 +65,10 @@
   margin: 0 auto !important;
 }
 
+.wp-block-cover.img-cover {
+  align-items: flex-end;
+}
+
 /* Responsive */
 
 @media (min-width: 325px) and (max-width: 767px) {

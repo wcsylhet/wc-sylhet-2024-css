@@ -60,6 +60,10 @@
 .list-mb-5 li {
   margin-bottom: 8px;
 }
+.sharedaddy.sd-sharing-enabled {
+  max-width: 1100px;
+  margin: 0 auto !important;
+}
 
 /* Responsive */
 

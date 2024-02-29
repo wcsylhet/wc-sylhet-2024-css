@@ -68,6 +68,10 @@
 .wp-block-cover.img-cover {
   align-items: flex-end;
 }
+:where(body .is-layout-constrained) > * {
+  margin-block-start: 1rem;
+  margin-block-end: 0;
+}
 
 /* Responsive */
 

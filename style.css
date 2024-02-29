@@ -91,5 +91,9 @@
   margin-top: 26px;
   font-weight: 600 !important;
 }
+.sharedaddy.sd-sharing-enabled {
+  max-width: 90%;
+  margin: 0 auto !important;
+}
   
 }

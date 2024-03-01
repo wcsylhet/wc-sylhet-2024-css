@@ -77,9 +77,8 @@ p a:where(:not(.wp-element-button)) {
 }
 
 body .wp-block-jetpack-contact-form.sponsor-form {
-  --wp--style--block-gap: 1rem;
+  --wp--style--block-gap: 1rem !important;
 }
-
 /* Responsive */
 
 @media (min-width: 325px) and (max-width: 767px) {

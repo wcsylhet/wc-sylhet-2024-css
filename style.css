@@ -76,6 +76,10 @@ p a:where(:not(.wp-element-button)) {
   color: #00b152;
 }
 
+body .wp-block-jetpack-contact-form.sponsor-form {
+  --wp--style--block-gap: 1rem;
+}
+
 /* Responsive */
 
 @media (min-width: 325px) and (max-width: 767px) {

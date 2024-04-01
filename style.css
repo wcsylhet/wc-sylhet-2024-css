@@ -180,7 +180,7 @@ body {
     }
 
     #tix table.tix_tickets_table.tix-order-summary thead tr {
-        background-color: #fde9b1;
+       background-color: #02b152;
         border-bottom: 2px solid #0a3773;
     }
 
@@ -286,7 +286,7 @@ body {
 	}	
 
 	#tix table.tix_tickets_table tbody tr>td, #tix table.tix_tickets_table tbody tr>th {
-	    padding: 1rem;
+		padding: 7px;
 	}
 
 }

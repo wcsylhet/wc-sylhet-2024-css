@@ -285,4 +285,8 @@ body {
 		width: 50%;
 	}	
 
+	#tix table.tix_tickets_table tbody tr>td, #tix table.tix_tickets_table tbody tr>th {
+	    padding: 1rem;
+	}
+
 }

@@ -107,3 +107,174 @@ body {
 }
   
 }
+
+
+
+#tix table.tix_tickets_table tbody tr>td, #tix table.tix_tickets_table tbody tr>th {
+        background: #fef4d8;
+        box-sizing: border-box;
+        padding: 1.5rem 2rem;
+    }
+
+    #tix table {
+        width: 100%;
+    }
+
+    #tix table thead {
+        background: #02b152;
+    }
+
+    #tix table thead th, #tix table thead td {
+        padding: 10px;
+        font-weight: bold !important;
+        color: white;
+    }
+
+    #tix table.tix_tickets_table tbody tr>td>*,#tix table.tix_tickets_table tbody tr>th>* {
+        box-sizing: border-box;
+    }
+
+    #tix table.tix_tickets_table.tix-tickets-list thead tr {
+        border-bottom: 2px solid #0a3773;
+    }
+
+    #tix table.tix_tickets_table.tix-tickets-list thead tr th.tix-column-description {
+        text-align: left;
+    }
+
+    #tix table.tix_tickets_table.tix-tickets-list tbody tr>td,#tix table.tix_tickets_table.tix-tickets-list tbody tr>th {
+        background: #fef4d8;
+    }
+
+    #tix table.tix_tickets_table.tix-tickets-list tbody tr>td:nth-child(2n),#tix table.tix_tickets_table.tix-tickets-list tbody tr>th:nth-child(2n) {
+        background: #fffaec;
+    }
+
+    #tix table.tix_tickets_table.tix-tickets-list tbody tr:not(:last-child) {
+        border-bottom: 2px solid #0a3773;
+    }
+
+    #tix table.tix_tickets_table.tix-tickets-list tbody tr th {
+        padding: 3rem 2rem;
+    }
+
+    #tix table.tix_tickets_table.tix-tickets-list tbody tr th.tix-column-description {
+        text-align: left;
+    }
+
+    #tix table.tix_tickets_table.tix-tickets-list tbody tr th.tix-column-description label.tix-ticket-title {
+        display: inline-block;
+        margin-bottom: .5rem;
+    }
+
+    #tix table.tix_tickets_table.tix-tickets-list tbody tr td {
+        text-align: center;
+    }
+
+    #tix table.tix_tickets_table.tix-tickets-list tbody tr td.tix-column-price,#tix table.tix_tickets_table.tix-tickets-list tbody tr td.tix-column-remaining {
+        font-weight: 700;
+    }
+
+    #tix table.tix_tickets_table.tix-order-summary {
+        width: 100%;
+    }
+
+    #tix table.tix_tickets_table.tix-order-summary thead tr {
+        background-color: #fde9b1;
+        border-bottom: 2px solid #0a3773;
+    }
+
+    #tix table.tix_tickets_table.tix-order-summary thead tr th.tix-column-description {
+        text-align: left;
+    }
+
+    #tix table.tix_tickets_table.tix-order-summary tbody tr td.tix-column-per-ticket,#tix table.tix_tickets_table.tix-order-summary tbody tr td.tix-column-price,#tix table.tix_tickets_table.tix-order-summary tbody tr td.tix-column-quantity,#tix table.tix_tickets_table.tix-order-summary tbody tr.tix-row-total {
+        text-align: center;
+    }
+
+    #tix table.tix_tickets_table.tix-order-summary tbody tr>td,#tix table.tix_tickets_table.tix-order-summary tbody tr>th {
+        background: #fef4d8;
+    }
+
+    #tix table.tix_tickets_table.tix-order-summary tbody tr>td:nth-child(2n),#tix table.tix_tickets_table.tix-order-summary tbody tr>th:nth-child(2n) {
+        background: #fffaec;
+    }
+
+    #tix table.tix_tickets_table.tix-attendee-form tbody tr:first-child>th {
+        background-color: #fde9b1;
+        border-bottom: 2px solid #0a3773;
+    }
+
+    #tix form .tix-column-quantity select {
+        padding: 10px;
+    }
+
+    #tix input[type=submit]:hover {
+        background-color: #d7637b;
+    }
+    #tix input[type=submit] {
+        background-color: #cd3c5a;
+        border: none;
+        border-radius: 2rem;
+        color: #fff;
+        display: block;
+        font-family: Mulish, sans-serif;
+        font-size: 1.2rem;
+        font-weight: 700;
+        line-height: 1.5;
+        margin-bottom: 5rem;
+        padding: 1rem;
+        transition: background-color .3s ease;
+        width: 100%;
+    }
+
+    td.tix-column-quantity select option:nth-child(n+3) {
+        display: none !important;
+    }
+
+    #tix table.tix_tickets_table.tix-attendee-form input {
+        background-color: #fff;
+        border: 2px solid #fac83c;
+        font-size: var(--wp--preset--font-size--medium);
+        padding: 10px;
+    }
+
+    tr.tix-row-health-advisory td {
+        background: #fff !important;
+        font-size: 12px;
+    }
+
+    form#tix_checkout_form {
+        display: block;
+        overflow: hidden;
+    }
+
+    .tix-submit {
+        text-align: left;
+        float: none;
+    }
+
+    #tix .tix-wide-tab {
+        width: auto;
+        float:none;
+        border-bottom: none;
+    }
+
+    table.tix-ticket-form {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 100px;
+    }
+
+    table.tix-ticket-form th {
+        padding: 10px;
+        background: #ebe7d7;
+    }
+
+    table.tix-ticket-form td {
+        padding: 15px 10px;
+    }
+
+    table.tix-ticket-form tr {
+        border: 1px solid #e7e2cb;
+    }

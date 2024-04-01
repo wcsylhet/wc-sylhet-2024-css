@@ -278,3 +278,11 @@ body {
     table.tix-ticket-form tr {
         border: 1px solid #e7e2cb;
     }
+
+@media only screen and (max-width: 769px) {
+
+	#tix-attendees .tix-columns-4 li {
+		width: 50%;
+	}	
+
+}

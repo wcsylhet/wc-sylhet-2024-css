@@ -295,10 +295,14 @@ table.tix-ticket-form tr th {
 
 }
 
+.sponsor-list{
+	margin-block-start: 40px !important;
+}
 
 .sponsor-list .wp-block-post-template {
 	gap: 32px;
 }
+
 
 .sponsor-list .wp-block-post-template figure{
 	aspect-ratio: unset !important;

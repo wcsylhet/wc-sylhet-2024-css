@@ -294,3 +294,30 @@ table.tix-ticket-form tr th {
 	}
 
 }
+
+
+.sponsor-list .wp-block-post-template {
+    gap: 32px;
+}
+
+.sponsor-list .wp-block-post-template a{
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0px 8px 32px -2px rgba(27, 37, 51, 0.06);
+    display: flex;
+    height: 100%;
+    max-height: 200px;
+    padding: 16px;
+    box-sizing: border-box;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.sponsor-list .wp-block-post-template a > img{
+    box-sizing: border-box;
+    vertical-align: bottom;
+    width: 100%;
+    max-height: 200px;
+    max-width: 75%;
+}

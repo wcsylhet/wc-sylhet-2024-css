@@ -323,4 +323,5 @@ table.tix-ticket-form tr th {
 	vertical-align: bottom;
 	height: 200px;
 	max-width: 75%;
+	object-position: center;
 }

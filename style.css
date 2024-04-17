@@ -302,6 +302,7 @@ table.tix-ticket-form tr th {
 
 .sponsor-list .wp-block-post-template figure{
 	aspect-ratio: unset !important;
+	margin-bottom: 0px;
 }
 
 .sponsor-list .wp-block-post-template a{

@@ -346,6 +346,7 @@ table.tix-ticket-form tr th {
 #tix-attendees ul {
 	list-style: none;
 	margin-left: 0;
+  padding: 0;
 }
 
 @media screen and (min-width: 960px) {
@@ -364,7 +365,7 @@ table.tix-ticket-form tr th {
 	#tix-attendees ul {
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
-		gap: 4rem 2rem;
+		gap: 1rem 2rem;
 	}
 }
 

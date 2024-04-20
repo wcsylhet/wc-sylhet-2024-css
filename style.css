@@ -338,7 +338,7 @@ table.tix-ticket-form tr th {
 }
 
 @media only screen and (max-width: 769px){
-  #tix-attendees .tix-columns-4 li {
+  #tix-attendees .tix-columns-3 li {
     width: 50%;
   }
 }

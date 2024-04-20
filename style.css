@@ -337,8 +337,78 @@ table.tix-ticket-form tr th {
 	text-align:center;
 }
 
-@media only screen and (max-width: 769px){
-  #tix-attendees .tix-columns-3 li {
-    width: 50%;
-  }
+@media screen and (min-width: 300px) {
+	#tix-attendees ul {
+		grid-template-columns: repeat(auto-fit, 280px) !important;
+	}
+}
+
+#tix-attendees ul {
+	list-style: none;
+	margin-left: 0;
+}
+
+@media screen and (min-width: 960px) {
+	#tix-attendees ul {
+		grid-template-columns: repeat(4, 1fr);
+	}
+}
+
+@media screen and (min-width: 600px) {
+	#tix-attendees ul {
+		grid-template-columns: repeat(3, 1fr);
+	}
+}
+
+@media screen and (min-width: 300px) {
+	#tix-attendees ul {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 4rem 2rem;
+	}
+}
+
+#tix-attendees .tix-attendee-list li {
+	border-radius: var(--scales-XS, 0.5rem);
+	background: rgba(255, 255, 255, 0.9);
+	box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.12);
+	padding: 1.25rem 1rem;
+	display: grid;
+	grid-template-columns: auto 1fr;
+	font-size: .875rem;
+	align-items: center;
+	box-sizing: border-box;
+	overflow: hidden;
+  height: inherit !important;
+}
+
+#tix-attendees .tix-attendee-list .avatar {
+	grid-row: span 3;
+	width: 80px !important;
+	height: 80px !important;
+	margin: 0 var(--scales-XS, 0.5rem) 0 0 !important;
+	border: 3px solid var(--24-Dark-Blue-primary, #00b152);
+	border-radius: 50%;
+}
+
+
+#tix-attendees .tix-attendee-twitter {
+	background-image: url(https://asia.wordcamp.org/2024/files/2023/09/wca24_tix-attendee_icon_twitter-x.png);
+}
+
+#tix-attendees .tix-attendee-twitter,
+#tix-attendees .tix-attendee-url {
+	padding-left: 16px;
+	background-repeat: no-repeat;
+	background-size: 12px 12px;
+	background-position: left;
+}
+
+#tix-attendees .tix-field {
+	margin-left: 0 !important;
+	width: auto !important;
+}
+
+#tix-attendees .tix-attendee-url {
+	background-image: url(https://asia.wordcamp.org/2024/files/2023/09/wca24_tix-attendee_icon_url.png);
 }

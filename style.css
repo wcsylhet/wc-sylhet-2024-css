@@ -380,6 +380,7 @@ table.tix-ticket-form tr th {
 	box-sizing: border-box;
 	overflow: hidden;
   height: inherit !important;
+  width: 100% !important;
 }
 
 #tix-attendees .tix-attendee-list .avatar {

@@ -422,6 +422,6 @@ table.tix-ticket-form tr th {
 .is-style-rounded img{
 	width: 100% !important;
 	aspect-ration: 1/1 !important;
-	height: unset !important;
+	height: 256px !important;
 	object-fit: cover;
 }

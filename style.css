@@ -418,3 +418,8 @@ table.tix-ticket-form tr th {
 .wp-block-wporg-site-breadcrumbs{
 	mask-image: none !important;
 }
+
+.is-style-rounded img{
+	width: 100% !important;
+	aspect-ration: 1/1 !important;
+}

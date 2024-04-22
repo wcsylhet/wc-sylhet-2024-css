@@ -420,7 +420,7 @@ table.tix-ticket-form tr th {
 }
 
 .is-style-rounded img{
-/* 	width: 100% !important; */
+	width: 100% !important;
 	aspect-ration: 1/1 !important;
 	height: unset !important;
 	object-fit: cover;

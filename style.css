@@ -414,3 +414,7 @@ table.tix-ticket-form tr th {
 #tix-attendees .tix-attendee-url {
 	background-image: url(https://asia.wordcamp.org/2024/files/2023/09/wca24_tix-attendee_icon_url.png);
 }
+
+.wp-block-wporg-site-breadcrumbs{
+	mask-image: none !important;
+}

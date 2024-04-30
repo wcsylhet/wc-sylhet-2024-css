@@ -475,6 +475,9 @@ table.tix-ticket-form tr th {
     align-items: center;
 }
 
+.organizer-list{
+	margin-top: 40px;
+}
 
 .organizer-list > ul{
 	justify-items: center !important;

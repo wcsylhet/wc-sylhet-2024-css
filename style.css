@@ -528,3 +528,13 @@ table.tix-ticket-form tr th {
 	line-height: 48px; /* 120% */
 	text-transform: capitalize; 
 }
+
+
+.wp-container-core-group-is-layout-21 > .alignwide {
+    max-width: 900px;
+}
+
+.wp-container-core-group-is-layout-21 > .alignwide img{
+    height:96px !important;
+    width:96px;
+}

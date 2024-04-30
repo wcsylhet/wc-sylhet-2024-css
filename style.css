@@ -500,10 +500,17 @@ table.tix-ticket-form tr th {
 	color: white;
 	line-height: 32px;
 	padding: 16px;
+	text-align: left;
+}
+
+.organizer-list > ul > li figure{
+	width: 300px !important;
+	height: 300px !important;
 }
 
 
 .organizer-list .wp-block-wordcamp-avatar.is-style-rounded img{
 	border-radius: 16px !important;
 	border: 0 !important;
+	height: 300px !important;
 }

@@ -498,6 +498,8 @@ table.tix-ticket-form tr th {
 	font-size: 20px !important;
 	font-weight: 600;
 	color: white;
+	line-height: 32px;
+	padding: 16px;
 }
 
 

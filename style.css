@@ -541,3 +541,6 @@ table.tix-ticket-form tr th {
 .display-none{
   display: none !important;
 }
+.display-none {
+    display: none !important;
+}

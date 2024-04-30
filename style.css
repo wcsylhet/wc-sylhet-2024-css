@@ -476,8 +476,8 @@ table.tix-ticket-form tr th {
 }
 
 
-.organizer-list > ul > li{
-	max-width: fit-content !important;
+.organizer-list > ul{
+	justify-items: center !important;
 }
 
 

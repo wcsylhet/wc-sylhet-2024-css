@@ -517,3 +517,14 @@ table.tix-ticket-form tr th {
 	border: 0 !important;
 	height: 300px !important;
 }
+
+.organizer-page-section-title{
+	color: #232323;
+	text-align: center;
+	font-family: Sora;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 48px; /* 120% */
+	text-transform: capitalize; 
+}

@@ -494,4 +494,5 @@ table.tix-ticket-form tr th {
 
 .organizer-list .wp-block-wordcamp-avatar.is-style-rounded img{
 	border-radius: 16px !important;
+	border: 0 !important;
 }

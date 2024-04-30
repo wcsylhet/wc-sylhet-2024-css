@@ -482,6 +482,9 @@ table.tix-ticket-form tr th {
 
 .organizer-list > ul{
 	justify-items: center !important;
+	grid-template-columns: repeat(2, minmax(0, 300px));
+	gap:32px;
+	justify-content: center;
 }
 
 .organizer-list > ul > li{

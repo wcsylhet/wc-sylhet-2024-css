@@ -495,7 +495,8 @@ table.tix-ticket-form tr th {
 	padding: 16px;
 	text-align: left;
 	background: #173D30;
-	border-radius: 16px;
+	border-radius: 12px;
+	margin-top: 8px;
 }
 
 .organizer-list > ul > li figure{

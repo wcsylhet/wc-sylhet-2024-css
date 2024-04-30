@@ -538,3 +538,6 @@ table.tix-ticket-form tr th {
     height:96px !important;
     width:96px;
 }
+.display-none{
+  display: none !important;
+}

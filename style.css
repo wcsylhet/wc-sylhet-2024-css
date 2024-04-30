@@ -482,6 +482,8 @@ table.tix-ticket-form tr th {
 
 .organizer-list > ul > li{
 	position: relative;
+	border-radius: 16px;
+  	overflow: hidden;
 }
 
 .organizer-list > ul > li > h2{

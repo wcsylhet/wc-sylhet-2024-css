@@ -474,3 +474,13 @@ table.tix-ticket-form tr th {
     justify-content: center;
     align-items: center;
 }
+
+
+.organizer-list > ul > li{
+	max-width: fit-content !important;
+}
+
+
+.organizer-list .wp-block-wordcamp-avatar.is-style-rounded img{
+	border-radius: 16px !important;
+}

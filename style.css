@@ -492,6 +492,12 @@ table.tix-ticket-form tr th {
 	left:0;
 	width: 100%;
 	margin: 0;
+	background: rgba(35, 35, 35, 0.56);
+	box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.32) inset;
+	backdrop-filter: blur(16px);
+	font-size: 20px !important;
+	font-weight: 600;
+	color: white;
 }
 
 

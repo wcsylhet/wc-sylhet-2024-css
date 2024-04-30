@@ -480,6 +480,17 @@ table.tix-ticket-form tr th {
 	justify-items: center !important;
 }
 
+.organizer-list > ul > li{
+	position: relative;
+}
+
+.organizer-list > ul > li > h2{
+	position: absolute;
+	bottom: 0px;
+	left:0;
+	width: 100%;
+}
+
 
 .organizer-list .wp-block-wordcamp-avatar.is-style-rounded img{
 	border-radius: 16px !important;

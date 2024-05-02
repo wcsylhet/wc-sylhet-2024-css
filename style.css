@@ -544,3 +544,11 @@ table.tix-ticket-form tr th {
 .display-none {
     display: none !important;
 }
+
+.wordcamp-schedule__time-slot-header.has-sessions {
+    background: #f6f7fb !important;
+}
+
+.wordcamp-schedule__date {
+    text-align: center;
+}

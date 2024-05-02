@@ -586,3 +586,7 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 .wordcamp-schedule__session-speakers a {
   font-size: 16px;
 }
+
+.is-rounded-5 {
+  border-radius: 10px;
+}

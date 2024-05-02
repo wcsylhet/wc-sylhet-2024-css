@@ -568,3 +568,8 @@ table.tix-ticket-form tr th {
 h4.wordcamp-schedule__session-title a {
   color: #2c814b !important;
 }
+
+div#wordcamp-schedule__session-3929, div#wordcamp-schedule__session-3929 h4 {
+  background: #2c814b !important;
+  color: #FFF !important;
+}

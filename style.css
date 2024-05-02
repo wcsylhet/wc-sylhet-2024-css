@@ -560,3 +560,7 @@ table.tix-ticket-form tr th {
   padding: 54px 69px !important;
   color:#FFF;
 }
+
+.wordcamp-schedule__session p {
+  display: none !important;
+}

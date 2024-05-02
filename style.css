@@ -546,7 +546,8 @@ table.tix-ticket-form tr th {
 }
 
 .wordcamp-schedule__time-slot-header.has-sessions {
-    background: #f6f7fb !important;
+    background: #2c814b !important;
+	color:#FFF;
 }
 
 .wordcamp-schedule__date {

@@ -573,3 +573,8 @@ div#wordcamp-schedule__session-3929, div#wordcamp-schedule__session-3929 h4 {
   background: #2c814b !important;
   color: #FFF !important;
 }
+
+h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
+  font-weight: 600;
+  font-size: 20px;
+}

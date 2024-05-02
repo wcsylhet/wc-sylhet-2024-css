@@ -578,3 +578,11 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
   font-weight: 600;
   font-size: 20px;
 }
+
+.wordcamp-schedule__session-speakers a:hover {
+  color: #2c814b !important;
+}
+
+.wordcamp-schedule__session-speakers a {
+  font-size: 16px;
+}

@@ -564,7 +564,8 @@ table.tix-ticket-form tr th {
 	border-top-left-radius: 8px;
 }
 
-.wordcamp-schedule__day .wordcamp-schedule__column-header.is-column-track-contributor-day{
+.wordcamp-schedule__day .wordcamp-schedule__column-header.is-column-track-contributor-day,
+.wordcamp-schedule__day .wordcamp-schedule__column-header.is-column-track-main-hall{
 	border-top-right-radius: 8px;
 }
 

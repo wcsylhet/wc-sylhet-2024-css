@@ -596,6 +596,18 @@ table.tix-ticket-form tr th {
 	background: #EEF5F2;
 }
 
+.wordcamp-schedule__session.has-slug-break .wordcamp-schedule__session-title{
+	text-align:center;
+	color: #1B2533;
+	text-align: center;
+	font-feature-settings: 'clig' off, 'liga' off;
+	font-family: Sora;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 24px; /* 150% */ 
+}
+
 .wordcamp-schedule__session:not(.wcb-favourite-session) .wcb-session-favourite-icon .dashicons-star-filled::before{
 	content:"\f154" !important;
 }

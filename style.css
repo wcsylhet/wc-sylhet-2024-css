@@ -590,3 +590,9 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 .is-rounded-5 {
   border-radius: 10px;
 }
+
+.wordcamp-schedule__column-header.is-column-time,
+.wordcamp-schedule__column-header.is-column-track-contributor-day{
+	padding-top: 16px !important;
+	padding-bottom: 16px !important;
+}

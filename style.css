@@ -592,6 +592,10 @@ table.tix-ticket-form tr th {
 	outline: none !important;
 }
 
+.wordcamp-schedule__session.has-slug-break{
+	background: #EEF5F2;
+}
+
 .wordcamp-schedule__session:not(.wcb-favourite-session) .wcb-session-favourite-icon .dashicons-star-filled::before{
 	content:"\f154" !important;
 }

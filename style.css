@@ -605,7 +605,8 @@ table.tix-ticket-form tr th {
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 500;
-	line-height: 24px; /* 150% */ 
+	line-height: 24px; /* 150% */
+	display:block;
 }
 
 .wordcamp-schedule__session:not(.wcb-favourite-session) .wcb-session-favourite-icon .dashicons-star-filled::before{

@@ -569,10 +569,6 @@ h4.wordcamp-schedule__session-title a {
   color: #2c814b !important;
 }
 
-div#wordcamp-schedule__session-3929, div#wordcamp-schedule__session-3929 h4 {
-  background: #2c814b !important;
-  color: #FFF !important;
-}
 
 h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
   font-weight: 600;
@@ -596,8 +592,4 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 .wordcamp-schedule__column-header.is-column-track-main-hall{
 	padding-top: 16px !important;
 	padding-bottom: 16px !important;
-}
-
-#wordcamp-schedule__session-3929{
-	background: transparent !important;
 }

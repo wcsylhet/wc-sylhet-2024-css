@@ -572,6 +572,11 @@ table.tix-ticket-form tr th {
 	border-bottom: 1px solid #EAECF0; 
 }
 
+.fav-session-button:focus{
+	border: none !important;
+	outline: none !important;
+}
+
 .wordcamp-schedule__session:not(.wcb-favourite-session) .wcb-session-favourite-icon .dashicons-star-filled::before{
 	content:"\f154" !important;
 }

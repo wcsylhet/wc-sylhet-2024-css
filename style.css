@@ -597,7 +597,7 @@ table.tix-ticket-form tr th {
 }
 
 .wordcamp-schedule__session.has-slug-break .wordcamp-schedule__session-title{
-	text-align:center;
+	text-align:center !important;
 	color: #1B2533 !important;
 	text-align: center;
 	font-feature-settings: 'clig' off, 'liga' off;

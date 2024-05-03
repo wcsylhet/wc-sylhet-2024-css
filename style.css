@@ -555,10 +555,11 @@ table.tix-ticket-form tr th {
 }
 
 .wordcamp-schedule .wordcamp-schedule__column-header {
-  background-color: #136632 !important;
-  font: 30px / 32px 'Krona One', sans-serif;
-  padding: 54px 69px !important;
-  color:#FFF;
+  	background-color: #05291B !important;
+  	font: 30px / 32px 'Krona One', sans-serif;
+  	padding: 54px 69px !important;
+  	color:#FFF;
+	border-bottom: 1px solid var(--Gray-100, #EAECF0); 
 }
 
 .wordcamp-schedule__session p {

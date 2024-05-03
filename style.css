@@ -592,7 +592,8 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 }
 
 .wordcamp-schedule__column-header.is-column-time,
-.wordcamp-schedule__column-header.is-column-track-contributor-day{
+.wordcamp-schedule__column-header.is-column-track-contributor-day,
+.wordcamp-schedule__column-header.is-column-track-main-hall{
 	padding-top: 16px !important;
 	padding-bottom: 16px !important;
 }

@@ -605,7 +605,7 @@ table.tix-ticket-form tr th {
   display: none !important;
 }
 
-h4.wordcamp-schedule__session-title a {
+h4.wordcamp-schedule__session-title{
   color: #2c814b !important;
 }
 

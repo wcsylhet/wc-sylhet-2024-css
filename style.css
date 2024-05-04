@@ -668,4 +668,6 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 
 .table-leads img {
     border-radius: 9999px !important;
+	height: 176px !important;
+    width: 176px !important;
 }

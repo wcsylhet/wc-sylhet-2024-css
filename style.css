@@ -664,3 +664,8 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 	padding-top: 16px !important;
 	padding-bottom: 16px !important;
 }
+
+
+.table-leads img {
+    border-radius: 9999px !important;
+}

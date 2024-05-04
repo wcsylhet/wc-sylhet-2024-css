@@ -671,3 +671,7 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 	height: 176px !important;
     width: 176px !important;
 }
+
+.is-layout-flow .post-2905 div:first-child {
+    flex-basis: 65% !important;
+}

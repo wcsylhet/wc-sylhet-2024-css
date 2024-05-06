@@ -680,3 +680,7 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 .custom-session-details > div > p:last-of-type{
 	display: none;
 }
+
+.custom-session-details-info-list > div{
+	margin-top: 16px;
+}

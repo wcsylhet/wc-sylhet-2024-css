@@ -681,6 +681,14 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 	display: none;
 }
 
-.custom-session-details-info-list > div{
+.custom-session-details-info-list{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: start;
+	align-content: start;
+	gap: 16px;
 	margin-top: 16px;
+	padding-top: 16px;
+
 }

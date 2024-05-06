@@ -708,3 +708,7 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 .custom-session-details-info-list > div > div{
 	font-weight: 500 !important;
 }
+
+.wp-block-wordcamp-session-speakers .wp-block-wordcamp-session-speakers__name{
+	font-style: italic !important;
+}

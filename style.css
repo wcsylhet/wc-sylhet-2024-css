@@ -687,11 +687,19 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 	justify-content: flex-start;
 	align-items: start;
 	align-content: start;
-	gap: 16px;
+	gap: 8px;
 	margin-top: 16px;
-	padding-top: 16px;
+	padding-top: 24px;
 }
 
 .custom-session-details-info-list > div{
 	margin: 0 !important;
+}
+
+.custom-session-details-info-list > div{
+	font-size: 14px !important;
+}
+
+.custom-session-details-info-list > div > div{
+	font-weight: 500 !important;
 }

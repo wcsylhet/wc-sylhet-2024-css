@@ -675,3 +675,8 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 .is-layout-flow .post-2905 div:first-child {
     flex-basis: 65% !important;
 }
+
+
+.custom-session-details div p:last{
+	display: none;
+}

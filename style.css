@@ -690,5 +690,8 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 	gap: 16px;
 	margin-top: 16px;
 	padding-top: 16px;
+}
 
+.custom-session-details-info-list > div{
+	margin: 0 !important;
 }

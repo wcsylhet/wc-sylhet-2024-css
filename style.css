@@ -677,6 +677,6 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 }
 
 
-.custom-session-details > div > p{
+.custom-session-details > div > p:last-of-type{
 	display: none;
 }

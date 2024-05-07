@@ -1,3 +1,7 @@
+a:focus{
+	outline: none !important;
+}
+
 .mb-24{
   margin-bottom:24px;
 }

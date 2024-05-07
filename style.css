@@ -720,3 +720,7 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 	font-style: italic !important;
 	font-family: Sora !important;
 }
+.session-info-devider{
+	margin-top: 24px;
+	color: #C5C9C1 !important;
+}

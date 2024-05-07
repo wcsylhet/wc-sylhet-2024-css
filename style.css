@@ -678,7 +678,8 @@ h4.wordcamp-schedule__session-title a, h4.wordcamp-schedule__session-title {
 
 
 .custom-session-details, .custom-session-details div p{
-	font-family: Sora !important;	
+	font-family: Sora !important;
+	line-height: 28px;
 }
 
 
